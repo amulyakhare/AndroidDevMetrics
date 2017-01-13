@@ -1,4 +1,4 @@
-include ':GithubClient-example'
+include ':GithubClient-example', ':androiddevmetric-interceptor-samples'
 include ':androiddevmetrics-runtime'
 include ':androiddevmetrics-runtime-noop'
 include ':androiddevmetrics-plugin'
